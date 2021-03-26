@@ -203,7 +203,15 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				0300913E
+				07009B3E
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				01000000
+				</data>
+				<key>framebuffer-stolenmem</key>
+				<data>
+				00003001
 				</data>
 			</dict>
 		</dict>
