@@ -199,6 +199,21 @@
 				<key>name</key>
 				<string>pci8086,2916</string>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>
+				07009B3E
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				01000000
+				</data>
+				<key>framebuffer-stolenmem</key>
+				<data>
+				00003001
+				</data>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict>
